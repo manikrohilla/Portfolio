@@ -1,3 +1,6 @@
 # Portfolio
 Manik Rohila Portfolio 
-I am Full stack developer 
+<br>
+I am Full stack developer .
+<br> 
+Completed my b tech degree 
